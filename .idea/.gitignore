@@ -1,0 +1,41 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+# CMake build directories (adjust if using a different one)
+cmake-build-*/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+Testing/
+install_manifest.txt
+
+# CLion / JetBrains IDE project files
+.idea/
+*.iml
+
+# Compiled object files and executables
+*.o
+*.obj
+*.exe
+*.dll
+*.so
+*.dylib
+*.a
+*.lib
+
+# OS-specific cruft
+.DS_Store
+Thumbs.db
+
+# User-generated or debug files
+*.log
+*.tmp
